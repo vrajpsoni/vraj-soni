@@ -25,7 +25,6 @@ I'm passionate about **Artificial Intelligence** and have experience in **Python
 
 ## 🏆 Certifications & Achievements
 
-- **IBM AI Developer**
 - **First Aid and CPR Training at Indian Red Cross Society**							 	     
 - **Foundations of Business Intelligence (PowerBI) By Google**							         
 - **Ethics in the Age of Generative AI**  										         
@@ -34,7 +33,7 @@ I'm passionate about **Artificial Intelligence** and have experience in **Python
 
 ## 📫 Contact Me
 
-- **LinkedIn:** [Carson Evans](https://www.linkedin.com/in/vrajpsoni/)
+- **LinkedIn:** [Vraj Soni](https://www.linkedin.com/in/vrajpsoni/)
 - **Email:** [vraj@vrajsoni.com](mailto:vraj@vrajsoni.com)
 
 ---
